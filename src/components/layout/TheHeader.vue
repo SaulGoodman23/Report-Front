@@ -2,7 +2,7 @@
   <header>
     <gear-spinner></gear-spinner>
     <nav>
-      <h1 data-text="Karmatec Report App...">Karmatec Report App...</h1>
+      <h1 data-text="Karmatec Report App...">KARMATEC</h1>
       <ul>
         <li>
           <router-link to="/about-us">Hello Nasser</router-link>
